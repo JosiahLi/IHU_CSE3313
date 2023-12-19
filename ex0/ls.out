@@ -1,0 +1,15 @@
+.:
+total 8
+drwxrwxr-x 2 s12214588 s12214588 4096 Aug 31 13:24 assignment
+drwxrwxr-x 3 s12214588 s12214588 4096 Aug 31 13:33 submission
+
+./assignment:
+total 0
+
+./submission:
+total 4
+drwxrwxr-x 2 s12214588 s12214588 4096 Aug 31 13:33 ex0
+
+./submission/ex0:
+total 0
+-rw-rw-r-- 1 s12214588 s12214588 0 Aug 31 13:33 ls.out

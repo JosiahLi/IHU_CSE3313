@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cstddef": "c",
+        "cstdio": "c",
+        "type_traits": "c",
+        "typeinfo": "c"
+    }
+}
